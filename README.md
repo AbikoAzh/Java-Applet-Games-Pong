@@ -14,14 +14,17 @@ It's one of the first computer games that ever created, this simple "tennis like
 Build using [Java Applet libraries](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
 
 ### Classes:
+* AIPaddle
 * Ball
-* GTennis
-* HumanHand
+* HumanPaddle
+* Paddle
+* Tennis
 
 ### Extends & Implements: 
 * Applet
-* KeyListener
+* Paddle
 * Runnable
+* KeyListener
 
 ### 🛠️ Languages and Tools :
 <div>
@@ -32,9 +35,8 @@ Build using [Java Applet libraries](https://docs.oracle.com/javase/7/docs/api/ja
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java%20Swing-1f425f.svg)](https://www.java.com)
   
 ### Visuals:
-![javaw_WFxZTlAqlp](https://github.com/AbikoAzh/Java-Applet-Games-Pong/assets/165510364/7eca629e-b6a0-495a-a261-91745b5ef63b)
-![javaw_qgj5Bob8Gt](https://github.com/AbikoAzh/Java-Applet-Games-Pong/assets/165510364/458206f9-9c62-44d5-adda-90082f616596)
-![javaw_6dgHaiVa4W](https://github.com/AbikoAzh/Java-Applet-Games-Pong/assets/165510364/744af408-d73e-4a01-8932-e0c2af6eb2cd)
+![javaw_66UtyeIeVB](https://github.com/AbikoAzh/Java-Applet-Games-Pong/assets/165510364/7e112ae0-b58c-43bb-bef0-11c7da0b0dc9)
+![javaw_WVZuLddmMb](https://github.com/AbikoAzh/Java-Applet-Games-Pong/assets/165510364/07f12cec-570a-43fa-9552-ed21d374bc94)
 
 ### License:
 [MIT](https://choosealicense.com/licenses/mit/)
